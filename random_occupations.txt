@@ -1,0 +1,35 @@
+Software Developer
+Teacher
+Nurse
+Accountant
+Chef
+Graphic Designer
+Electrician
+Pharmacist
+Lawyer
+Dentist
+Marketing Manager
+Police Officer
+Architect
+Psychologist
+Civil Engineer
+Data Analyst
+Veterinarian
+Financial Analyst
+Social Worker
+Mechanical Engineer
+Librarian
+Physical Therapist
+Biomedical Engineer
+Flight Attendant
+Environmental Scientist
+Photographer
+Interior Designer
+Occupational Therapist
+Economist
+Web Developer
+Radiologist
+Geologist
+Astronomer
+Mathematician
+Pharmacist
